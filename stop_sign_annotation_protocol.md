@@ -1,4 +1,5 @@
 # Stop Sign Behavior Annotation Protocol
+##### Completed by Joshua Masri
 
 This guide defines how to label driver behavior near stop signs in dash-cam videos.  
 You will assign **three labels per clip**:  
